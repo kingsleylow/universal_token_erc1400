@@ -8,7 +8,6 @@ import "./interface/IERC1643.sol";
 
 /**
  * @title IERC1400 security token standard
- * @dev See https://github.com/SecurityTokenStandard/EIP-Spec/blob/master/eip/eip-1400.md
  */
 interface IERC1400 is IERC20, IERC1643 {
 
